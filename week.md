@@ -1,6 +1,4 @@
 # ApexaIQ Research & Documentation
-### By Pranit Dalvi
-
 ---
 
 ## 1. What does ApexaIQ do & what industry problem does it solve?
