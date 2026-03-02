@@ -334,8 +334,3 @@ Cyber Asset Attack Surface Management.
 Provides visibility into all assets and their risks.
 
 ---
-
-## Author
-
-Pranit Dalvi  
-Engineering Student | Cybersecurity & Backend Enthusiast
